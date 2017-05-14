@@ -1,0 +1,12 @@
+platform :ios, '7.0'
+pod 'AFNetworking', '~> 2.6.0'
+pod 'JSONModel', '~>1.1.0'
+pod 'Masonry', '~> 0.6.2'
+pod 'MBProgressHUD', '~>0.9.1'
+pod 'jastor', '~>0.2.1'
+pod 'SIAlertView'
+pod 'MHDismissModalView'
+pod 'JCAlertView'
+pod 'MMPlaceHolder'
+pod 'SVWebViewController', :head
+pod 'Bugtags'

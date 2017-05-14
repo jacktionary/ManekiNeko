@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8f3a1c55-6c96-4e74-b971-527c760a4eb6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8f3a1c55-6c96-4e74-b971-527c760a4eb6" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8f3a1c55-6c96-4e74-b971-527c760a4eb6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E95FC7E8-A89D-434D-AA05-87D15CE866CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8f3a1c55-6c96-4e74-b971-527c760a4eb6" : "project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ManekiNeko",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "develop\/iOS\/manekineko\/trunk\/ManekiNeko\/ManekiNeko.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.126.84.238\/project",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8f3a1c55-6c96-4e74-b971-527c760a4eb6"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+
+/* Class = "UINavigationItem"; title = "师徒"; ObjectID = "8uL-bj-0tI"; */
+"8uL-bj-0tI.title" = "师徒";
+
+/* Class = "UITabBarItem"; title = "提现"; ObjectID = "G45-jw-TJO"; */
+"G45-jw-TJO.title" = "提现";
+
+/* Class = "UIViewController"; title = "师徒"; ObjectID = "GJj-OX-DOD"; */
+"GJj-OX-DOD.title" = "师徒";
+
+/* Class = "UIViewController"; title = "我"; ObjectID = "HHL-qO-XFf"; */
+"HHL-qO-XFf.title" = "我";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "Hch-nY-MNj"; */
+"Hch-nY-MNj.title" = "我";
+
+/* Class = "UINavigationItem"; title = "提现"; ObjectID = "Kk6-GS-dNX"; */
+"Kk6-GS-dNX.title" = "提现";
+
+/* Class = "UIViewController"; title = "任务"; ObjectID = "aCV-QH-USC"; */
+"aCV-QH-USC.title" = "任务";
+
+/* Class = "UINavigationItem"; title = "排名"; ObjectID = "bov-eu-JN9"; */
+"bov-eu-JN9.title" = "排名";
+
+/* Class = "UIViewController"; title = "排名"; ObjectID = "d7c-I8-l6i"; */
+"d7c-I8-l6i.title" = "排名";
+
+/* Class = "UITabBarItem"; title = "任务"; ObjectID = "jaO-DK-de7"; */
+"jaO-DK-de7.title" = "任务";
+
+/* Class = "UINavigationItem"; title = "任务"; ObjectID = "rjE-2B-l1U"; */
+"rjE-2B-l1U.title" = "任务";
+
+/* Class = "UITabBarItem"; title = "师徒"; ObjectID = "sk4-GA-t4y"; */
+"sk4-GA-t4y.title" = "师徒";
+
+/* Class = "UIViewController"; title = "提现"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "提现";
+
+/* Class = "UINavigationItem"; title = "我"; ObjectID = "xZg-Eu-fE8"; */
+"xZg-Eu-fE8.title" = "我";
+
+/* Class = "UITabBarItem"; title = "排名"; ObjectID = "xe5-L5-cMn"; */
+"xe5-L5-cMn.title" = "排名";
